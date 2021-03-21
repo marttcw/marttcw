@@ -1,9 +1,9 @@
 * [Website](https://mtcw.xyz/)
 * Working on at the moment:
+  * Link aggregation and discussion site written in Go
   * OpenGL 3 Game Engine
-  * steamcountsnotifyd rewrite to Rust
 * Languages:
-  * Primarily used: C, C++, Rust, Python
+  * Primarily used: C, C++, Rust, Python, Go
   * Web: HTML, CSS
   * Database: SQL - SQLite, PostgreSQL
   * Touched on: Java, sh, JavaScript (vanilla)

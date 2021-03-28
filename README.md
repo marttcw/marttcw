@@ -1,4 +1,3 @@
-* [Website](https://mtcw.xyz/)
 * Working on at the moment:
   * Link aggregation and discussion site written in Go
   * OpenGL 3 Game Engine

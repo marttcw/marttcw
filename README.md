@@ -1,6 +1,7 @@
 * Working on at the moment:
+  * Steam counter notifier + Master Server Library in Rust
   * Link aggregation and discussion site written in Go
-  * OpenGL 3 Game Engine
+  * OpenGL 3 2D Game Engine
 * Languages:
   * Primarily used: C, C++, Rust, Python, Go
   * Web: HTML, CSS
